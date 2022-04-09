@@ -1,0 +1,12 @@
+2022	04	09	15:15:40	e5f0a79a-0b1f-45c3-b3a1-2662367eeecb	POST	undefined	/auth
+2022	04	09	15:16:35	7ec05ebe-0bcb-49a5-968e-d9f6a8efdfac	GET	undefined	/user
+2022	04	09	15:17:03	9f6e6027-6581-4b17-8bff-fbf5c2d4c775	POST	undefined	/auth
+2022	04	09	15:17:20	2872418d-05d5-4699-b80f-46c8da61c4ab	GET	undefined	/user
+2022	04	09	15:17:49	e7e1caaf-7324-47eb-a2f1-a07b37e2dd4a	POST	undefined	/auth
+2022	04	09	15:18:09	6f1a01c0-1ad6-4771-82aa-01f17ee8a685	GET	undefined	/user
+2022	04	09	15:18:36	f1951d9b-aa03-4659-ab4b-7f2edae96b4d	POST	undefined	/auth
+2022	04	09	15:20:11	61acd8f0-9489-4139-80c3-70553c8deef8	DELETE	undefined	/user
+2022	04	09	15:20:30	17ec98db-5048-4e2a-afc6-8f110d44a4ae	POST	undefined	/auth
+2022	04	09	15:20:50	65443e1b-50d6-436e-8149-1c496862ff75	DELETE	undefined	/user
+2022	04	09	15:21:14	6ad89fe6-df5d-4a6b-aa48-0e799ff46d51	POST	undefined	/auth
+2022	04	09	15:21:51	4d231142-876d-4401-9c81-37966961e3a4	GET	undefined	/user
